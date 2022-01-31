@@ -15,7 +15,7 @@ Here are some ideas to get you started:
  
 # hey there 😄
 
-my name is <b>Alvin Ben</b>! I work on creative engaging user interfaces that people want to keep coming back to.
+my name is <b>Alvin Ben</b>! I work on creative engaging user interfaces that people want to keep coming back to. See more of me @ <a href="https://alvinben.com" target="_blank" rel="noreferrer">alvinben.com</a>
 
 <div align="center">
 <img style="float: left" src="https://media-exp1.licdn.com/dms/image/C4E03AQG7pxG5VzXXGw/profile-displayphoto-shrink_200_200/0/1627960090264?e=1647475200&v=beta&t=ulPRd-ofqB499pxSSpxoBzt6hEIO2ZbKLIvEDhAt7LU" />
